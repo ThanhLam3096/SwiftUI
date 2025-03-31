@@ -14,6 +14,7 @@
 		04589D972D9953220064A811 /* SwiftUISerierTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04589D962D9953220064A811 /* SwiftUISerierTests.swift */; };
 		04589DA12D9953220064A811 /* SwiftUISerierUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04589DA02D9953220064A811 /* SwiftUISerierUITests.swift */; };
 		04589DA32D9953220064A811 /* SwiftUISerierUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04589DA22D9953220064A811 /* SwiftUISerierUITestsLaunchTests.swift */; };
+		04589DB02D995DFE0064A811 /* TapGestures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04589DAF2D995DFE0064A811 /* TapGestures.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		04589D9C2D9953220064A811 /* SwiftUISerierUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUISerierUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04589DA02D9953220064A811 /* SwiftUISerierUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUISerierUITests.swift; sourceTree = "<group>"; };
 		04589DA22D9953220064A811 /* SwiftUISerierUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUISerierUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		04589DAF2D995DFE0064A811 /* TapGestures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestures.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				04589D872D99531D0064A811 /* ContentView.swift */,
 				04589D892D9953210064A811 /* Assets.xcassets */,
 				04589D8B2D9953210064A811 /* Preview Content */,
+				04589DAF2D995DFE0064A811 /* TapGestures.swift */,
 			);
 			path = SwiftUISerier;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04589DB02D995DFE0064A811 /* TapGestures.swift in Sources */,
 				04589D882D99531D0064A811 /* ContentView.swift in Sources */,
 				04589D862D99531D0064A811 /* SwiftUISerierApp.swift in Sources */,
 			);
