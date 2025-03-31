@@ -60,5 +60,5 @@ playground.xcworkspace
 *.sublime-workspace
 
 **/*.xcuserstate
-git rm --cached FoodSwift.xcodeproj/project.xcworkspace/xcuserdata/lamle96.xcuserdatad/UserInterfaceState.xcuserstate
+git rm --cached SwiftUISerier.xcodeproj/project.xcworkspace/xcuserdata/lamle96.xcuserdatad/UserInterfaceState.xcuserstate
 git commit -m "Removed file that shouldn't be tracked"

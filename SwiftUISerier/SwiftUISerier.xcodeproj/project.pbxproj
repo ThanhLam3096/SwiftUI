@@ -15,6 +15,7 @@
 		04589DA12D9953220064A811 /* SwiftUISerierUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04589DA02D9953220064A811 /* SwiftUISerierUITests.swift */; };
 		04589DA32D9953220064A811 /* SwiftUISerierUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04589DA22D9953220064A811 /* SwiftUISerierUITestsLaunchTests.swift */; };
 		04589DB02D995DFE0064A811 /* TapGestures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04589DAF2D995DFE0064A811 /* TapGestures.swift */; };
+		04589DB22D9A83820064A811 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04589DB12D9A83820064A811 /* GradientView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		04589DA02D9953220064A811 /* SwiftUISerierUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUISerierUITests.swift; sourceTree = "<group>"; };
 		04589DA22D9953220064A811 /* SwiftUISerierUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUISerierUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		04589DAF2D995DFE0064A811 /* TapGestures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestures.swift; sourceTree = "<group>"; };
+		04589DB12D9A83820064A811 /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				04589D892D9953210064A811 /* Assets.xcassets */,
 				04589D8B2D9953210064A811 /* Preview Content */,
 				04589DAF2D995DFE0064A811 /* TapGestures.swift */,
+				04589DB12D9A83820064A811 /* GradientView.swift */,
 			);
 			path = SwiftUISerier;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 			files = (
 				04589DB02D995DFE0064A811 /* TapGestures.swift in Sources */,
 				04589D882D99531D0064A811 /* ContentView.swift in Sources */,
+				04589DB22D9A83820064A811 /* GradientView.swift in Sources */,
 				04589D862D99531D0064A811 /* SwiftUISerierApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
